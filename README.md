@@ -61,16 +61,6 @@ python app.py
 
 ---
 
-## 📊 Results
-
-| Model    | Accuracy |
-|----------|----------|
-| SimpleCNN| 44%      |
-
----s
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests.
