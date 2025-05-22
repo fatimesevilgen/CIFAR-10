@@ -5,8 +5,6 @@ import torchvision.transforms as transforms
 from PIL import Image
 from predict import Net
 
-# Net sınıfı aynen buraya…
-
 @st.cache_resource
 def load_model():
     model = Net()
