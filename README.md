@@ -8,6 +8,9 @@ A modern deep learning project for classifying images from the CIFAR-10 dataset.
 
 This project demonstrates image classification using state-of-the-art deep learning techniques on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
+![image](https://github.com/user-attachments/assets/9e58b77a-bf57-4f6d-a6c8-53a89869b903)
+
+
 ---
 
 ## 📂 Project Structure
